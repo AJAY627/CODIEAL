@@ -1,0 +1,18 @@
+#layout-footer{
+    color: while;
+    a{
+        color: whilte;
+        text-decoration: none;
+    }
+
+    background-color: gray;
+    padding: 5px 10px;
+    display: flex;
+    justify-self: flex-start;
+
+    .footer-nav{
+        ul{
+            list-style: none;
+        }
+    }
+}
